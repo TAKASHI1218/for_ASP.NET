@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\HelloWorld",
+    "\\HelloWorld\\Pages",
+    "\\HelloWorld\\Properties",
+    "\\HelloWorld\\wwwroot",
+    "\\HelloWorld\\wwwroot\\css",
+    "\\HelloWorld\\wwwroot\\lib"
+  ],
+  "PreviewInSolutionExplorer": false
+}
